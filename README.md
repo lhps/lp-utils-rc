@@ -7,7 +7,7 @@ npm install lp-utils-rc
 ```
 
 ```js
-const formatCep = require("lp-utils-rc")
+const {formatCep} = require("lp-utils-rc")
 ```
 
 - formatCep( value ): 
